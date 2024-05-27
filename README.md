@@ -40,8 +40,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/thalisantunesdev/thalisantunesdev/output/snake.svg" alt="Snake animation" />
 
 ###
