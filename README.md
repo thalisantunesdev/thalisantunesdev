@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalisantunesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFicTl4ZThrZjMxejhja3UzY2JocXA0eW5hZmN4YjhweGYybGlmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUvAQg/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
   <img width="12" />
@@ -40,6 +34,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thalisantunesdev/thalisantunesdev/output/snake.svg" alt="Snake animation" />
-
-###
