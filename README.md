@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thalis</h1>
+
+<h3 align="center">This is my second account; my first one was hacked.</h3>
+
 <h3 align="center">A Software Engineering student currently living in Rio Grande do Sul. I have 4 years of work experience in the industry. I have participated in various areas of software projects, from project idealization to development and testing. I have been working as a Quality Assurance (QA) professional for 1.5 years. I am specializing in the test pyramid and work in all test areas, with a particular focus on automated end-to-end (e2e) and integration tests. 🛠️🧪🔍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalisantunesdev&label=Profile%20views&color=0e75b6&style=flat" alt="thalisantunesdev" /> </p>
