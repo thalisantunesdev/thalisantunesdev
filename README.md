@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalisantunesdev&label=Profile%20views&color=0e75b6&style=flat" alt="thalisantunesdev" /> </p>
 
-- 📝 I did a article on [https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/25546/etp1_resumo_expandido_25546.pdf](https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/25546/etp1_resumo_expandido_25546.pdf)
+- 📝 I did a article on [https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/25546/etp1_resumo_expandido_25546.pdf](https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/25546/etp1_resumo_expandido_25546.pdf) and https://www.linkedin.com/pulse/entendendo-e-configurando-um-projeto-cypress-usando-cucumber-antunes/?trackingId=yevcHOaqvXKoIWvI4Z3Fzg%3D%3D
 
 - 📫 How to reach me **thalisantunes@hotmail.com**
 
