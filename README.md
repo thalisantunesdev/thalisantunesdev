@@ -1,40 +1,21 @@
-<h2 align="left">Hi 👋! My name is Thalis and I'm a Quality Assurance, from Rio Grande do Sul</h2>
+<h1 align="center">Hi 👋, I'm Thalis</h1>
+<h3 align="center">A Software Engineering student currently living in Rio Grande do Sul. I have 4 years of work experience in the industry. I have participated in various areas of software projects, from project idealization to development and testing. I have been working as a Quality Assurance (QA) professional for 1.5 years. I am specializing in the test pyramid and work in all test areas, with a particular focus on automated end-to-end (e2e) and integration tests. 🛠️🧪🔍</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thalisantunesdev&label=Profile%20views&color=0e75b6&style=flat" alt="thalisantunesdev" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalisantunesdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalisantunesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 📝 I did a article on [https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/25546/etp1_resumo_expandido_25546.pdf](https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/25546/etp1_resumo_expandido_25546.pdf)
 
-###
+- 📫 How to reach me **thalisantunes@hotmail.com**
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFicTl4ZThrZjMxejhja3UzY2JocXA0eW5hZmN4YjhweGYybGlmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUvAQg/giphy.gif"  />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thalis_a_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thalis_a_s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/thalisantunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thalisantunes/" height="30" width="40" /></a>
+<a href="https://instagram.com/thalisantuness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thalisantuness" height="30" width="40" /></a>
+<a href="https://discord.gg/thalissilva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thalissilva_" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/thalisantunes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="thalisantunessilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/5555999293516?text=Achei+seu+contato+no+Github" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/thalisantuness/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalisantunesdev&show_icons=true&locale=en&layout=compact" alt="thalisantunesdev" /></p>
